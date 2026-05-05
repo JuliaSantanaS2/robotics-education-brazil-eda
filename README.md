@@ -32,7 +32,16 @@ Ao todo, foram identificadas **104 publicações**. Após a aplicação dos crit
 | **Seaborn** | Visualizações estatísticas |
 | **Jupyter Notebook** | Ambiente de desenvolvimento da análise |
 
+
 ## 🔍 Estrutura da Análise (Perguntas de Pesquisa)
+
+## 📊 Evolução Temporal das Publicações
+
+O gráfico de evolução temporal revelou que **não houve um crescimento linear** na produção científica. O ano de **2018** destaca-se pelo pico de publicações, seguido por uma queda notável entre **2020 e 2022**, coincidindo diretamente com a **pandemia de COVID-19** — que inviabilizou pesquisas que dependiam de aplicações presenciais em ambientes escolares.
+
+![Evolução Temporal](imagens/grafico_evolucao.png)
+
+---
 
 A Análise Exploratória de Dados (EDA) foi conduzida para responder às seguintes questões:
 
@@ -66,14 +75,6 @@ A análise revelou a predominância de dois kits com filosofias opostas:
 * **Kit Arduino:** Baixo custo, hardware/software livre (Open Source), permite integração com materiais alternativos e recicláveis, promovendo abordagens criativas e economicamente viáveis.
 
 ![Kits Utilizados](imagens/grafico_kits.png)
-
----
-
-## 📊 Evolução Temporal das Publicações
-
-O gráfico de evolução temporal revelou que **não houve um crescimento linear** na produção científica. O ano de **2018** destaca-se pelo pico de publicações, seguido por uma queda notável entre **2020 e 2022**, coincidindo diretamente com a **pandemia de COVID-19** — que inviabilizou pesquisas que dependiam de aplicações presenciais em ambientes escolares.
-
-![Evolução Temporal](imagens/grafico_evolucao.png)
 
 ---
 
